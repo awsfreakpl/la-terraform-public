@@ -1,0 +1,7 @@
+# Ignore terraform provider catalog
+compute/.terraform/*
+networking/.terraform/*
+storage/.terraform/*
+.terraform/*
+.terraform/plugins/linux_amd64/terraform-provider-aws_v2.0.0_x4
+
